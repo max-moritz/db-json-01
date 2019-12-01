@@ -1,14 +1,6 @@
 {
-"root" :
-    {
-      "posts": [
-        {
-          "id": 1,
-          "title": "hello"
-        }
-      ],
-      "profile": {
-        "name": "typicode"
-      }
-    }
+  "root": {
+    "person": "Mike",
+    "address" : "Moon"
+  }
 }
