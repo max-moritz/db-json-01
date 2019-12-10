@@ -3,8 +3,4 @@
     "person": "Mike",
     "address" : "Moon"
   }
-  "toplevel02": {
-    "animal": "Dog",
-    "name" : "Fido"
-  }
 }
