@@ -3,27 +3,27 @@
     [{
             "name": "Ann",
             "id": 10,
-            "friends": [20, 30, 40, 50, 60]
+            "friends": ["Ben", "Chen", "Dan", "Em", "Fan"]
         }, {
             "name": "Ben",
             "id": 20,
-            "friends": [10, 30, 40, 50, 60]
+            "friends": ["Ann", "Chen", "Dan", "Em", "Fan"]
         }, {
             "name": "Chen",
             "id": 30,
-            "friends": [10, 20, 40, 50, 60]
+            "friends": ["Ann", "Ben", "Dan", "Em", "Fan"]
         }, {
             "name": "Dan",
             "id": 40,
-            "friends": [10, 20, 40, 50, 60]
+            "friends": ["Ann", "Ben", "Dan", "Em", "Fan"]
         }, {
             "name": "Em",
             "id": 50,
-            "friends": [10, 20, 30, 40, 60]
+            "friends": ["Ann", "Ben", "Chen", "Dan", "Fan"]
         }, {
             "name": "Fan",
             "id": 60,
-            "friends": [10, 20, 30, 40, 50]
+            "friends": ["Ann", "Ben", "Chen", "Dan", "Em"]
         }
     ],
     "contactdetails": [{
