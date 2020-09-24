@@ -28,32 +28,26 @@
     ],
     "contactdetails": [{
         "name": "Ann",
-        "id": 10,
         "email": "ann@gmail.com",
         "mobile": "1111111"
     }, {
         "name": "Ben",
-        "id": 20,
         "email": "ben@gmail.com",
         "mobile": "2222222"
     },{
         "name": "Chen",
-        "id": 30,
         "email": "chen@gmail.com",
         "mobile": "3333333"
     },{
         "name": "Dan",
-        "id": 40,
         "email": "dan@gmail.com",
         "mobile": "4444444"
     },{
         "name": "Em",
-        "id": 50,
         "email": "em@gmail.com",
         "mobile": "5555555"
     },{
         "name": "Fan",
-        "id": 60,
         "email": "fan@gmail.com",
         "mobile": "6666666"
     }]
